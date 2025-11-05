@@ -1,0 +1,14 @@
+{
+  "name": "ws4-express-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "express": "^5.1.0"
+  }
+}

@@ -1,5 +1,8 @@
 Fullstack course WS4
 
+Live on render:
+https://ws4-express-basics-jmp2.onrender.com/
+
 How to run locally:
 
 ```bash
